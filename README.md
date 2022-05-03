@@ -1,1 +1,1 @@
-# feedback-arc-set-finder
+C program that iteratively finds the minimal feedback arc set of the given graph. 'supervisor' and 'generator' are supposed to run simultaneously. Multiple 'generator' processes can operate parallel for efficiency.
